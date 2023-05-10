@@ -24,3 +24,14 @@ source("cabecera_chunk_inicio.R")
 
 ## Primera sección
 
+## Estado del arte
+
+Podemos ver de qué forma se han implementado los modelos de ecuaciones estructurales (SEM) a situaciones de la vida real y en especial en el deporte. 
+
+Con el objetivo de medir la capacidad de algunos indicadores compuestos para evaluar el rendimiento deportivo de jugadores de fútbol, en @articulo8, se optó por aplicar tres técnicas de agrupación de variables, seguido de un modelo de ecuaciones estructurales de orden superior. En el estudio se basaron en una agrupación de referencia proporcionada por los expertos de EA Sports a la que llamaron *sofifa*, que consideraba 6 dimensiones de rendimiento para las variables estudiadas: potencia, mentalidad, habilidad, movimiento, ataque y defensa. 
+Estas dimensiones  presentan relaciones de covarianza poco coherentes ya que se han construido siguiendo las relaciones futbolísticas. Los resultados de las técnicas de *clustering* diferían de la división de los expertos. A partir de aquí, la cuestión fue cuál era la estructura más adecuada por lo que las 4 divisiones de conglomerados, las 3 obtenidas y la *sofifa*, se incluyeron en un modelo de ecuaciones estructurales con mínimos cuadrados parciales (PLS-SEM) con un componente de orden superior, el rendimiento global del fútbol.
+Como resultado final, se pudo concluir que podrían ser modelados adecuadamente mediante técnicas estadísticas datos tan complejos como los de rendimiento deportivo.
+
+Los modelos de ecuaciones estructurales pueden ser útiles en otras áreas tales como psicología, sociología, salud, educación, administración... En @articulo5 se utilizó el SEM para evaluar el efecto de las siguiente variables latentes: salud, confort y conciencia medioambiental, en la intención de desplazamiento activo. Las variables observables fueron extraídas de un cuestionario realizado con una muestreo por conveniencia usando el método bola de nieve. Previo al SEM, con un análisis factorial, se confirmó que los indicadores explicaban de forma correcta las variables latentes y después se pasó a evaluar los resultados de aplicar el SEM. Del modelo de medida se pudo afirmar su fiabilidad y validez a partir de los pesos estandarizados de las variables observables y coeficientes como el à de Cronbach y el coeficiente CR.
+
+
